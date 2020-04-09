@@ -1,0 +1,21 @@
+.conatainer{
+    max-width: 960px;
+    margin: 0 auto;
+    background: #f9f9f9;
+    font-size: 24px;
+    padding: 25px;
+}
+
+.parallax{
+    background: url('./balloons-388973_1280.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment:  fixed;
+    height: 200px;
+}
+.newpar{
+    background: url('./milky-way-2750627_1920.jpg');
+    background-size: cover;
+    background-attachment:  fixed;
+    padding: 80px 35px;
+    color: #f9f9f9;
+}
